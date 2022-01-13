@@ -7,11 +7,11 @@
 - 📫 How to reach me ... WHATSAPP +5535988378226 / INSTAGRAM @brunaocoelho / LINKEDIN bruno-coelho-9ab0b0139
 #
 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200" height="100"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="185" height="100"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="185" height="100"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="185" height="100"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="185" height="100"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="170" height="100"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="170" height="100"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="170" height="100"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="170" height="100"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="170" height="100"/></a>
 #
 
 <!---
