@@ -12,8 +12,8 @@
 
 ### 📚 Now studying...
 
-##### Swift: https://cs193p.sites.stanford.edu/
-##### Data validation on Vue.js: https://www.youtube.com/watch?v=XwND-DLWCF0&list=WL&index=26&t=428s
+#### Swift: https://cs193p.sites.stanford.edu/
+#### Data validation on Vue.js: https://www.youtube.com/watch?v=XwND-DLWCF0&list=WL&index=26&t=428s
 
 ### ⛏️ Now working on... https://github.com/bbcoelho/purpleorchid
 Developing a SPA to automate a buying process of a friend's restaurant chain
