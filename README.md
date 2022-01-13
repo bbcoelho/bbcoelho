@@ -12,7 +12,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="160" height="100"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="160" height="100"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="160" height="100"/></a>
-#
+
 
 <!---
 bbcoelho/bbcoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
