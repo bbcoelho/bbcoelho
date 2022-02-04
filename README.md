@@ -7,7 +7,10 @@
 - 📫 How to reach me ... WHATSAPP +5535988378226 / INSTAGRAM @brunaocoelho / LINKEDIN bruno-coelho-9ab0b0139
 #
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="160" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="160" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="160" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="160" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="160" height="100"/>
+</p>
+  
 #
 
 ### 📚 Now studying...
