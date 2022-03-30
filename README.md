@@ -20,6 +20,9 @@
 
 ### ⛏️ Now working on... all go!Dev by idWall bootcamp studies and code projects 😅
 
+- https://github.com/bbcoelho/goDev-by-idWall
+- https://github.com/Go-dev-Grupo4
+
 <!--- https://github.com/bbcoelho/purpleorchid
 Developing a SPA to automate a buying process of a friend's restaurant chain --->
 
