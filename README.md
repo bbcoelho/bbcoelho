@@ -8,13 +8,18 @@
 #
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="120" height="100"/>
-<img src="https://www.svgrepo.com/show/327388/logo-react.svg" width="120" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" height="100"/>
-<img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="120" height = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="120" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="120" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="120" height="100"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="140" height="100"/>
+<img src="https://www.svgrepo.com/show/327388/logo-react.svg" width="140" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="180" height="100"/>
+<img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="140" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="160" height="100"/>
+<img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="100" height="100"/>
+<br/>
+<br/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="200" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="100" height="100"/>
 
 </p>
