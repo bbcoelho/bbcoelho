@@ -11,7 +11,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="140" height="100"/>
 <img src="https://www.svgrepo.com/show/327388/logo-react.svg" width="140" height="100"/>
-<img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="140" height="100"/>
+<img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="120" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="160" height="100"/>
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="100" height="100"/>
 <br/>
