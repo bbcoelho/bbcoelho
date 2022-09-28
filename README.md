@@ -8,9 +8,9 @@
 #
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="140" height="100"/>
-<img src="https://www.svgrepo.com/show/327388/logo-react.svg" width="140" height="100"/>
+  
+<img src="https://ventura.media/wp-content/uploads/2016/09/windex.png" width="120" height="120"/>
+<img src="https://www.svgrepo.com/show/327388/logo-react.svg" width="160" height="110"/>
 <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="120" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="160" height="100"/>
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="100" height="100"/>
@@ -28,15 +28,17 @@
   
 #
 
-<!--- ### 📚 Now studying...
-
-#### Swift: https://github.com/bbcoelho/goDev-by-idWall (very very happy and greatfull for this opportunity 😊)
- #### Data validation on Vue.js: https://www.youtube.com/watch?v=XwND-DLWCF0&list=WL&index=26&t=428s --->
-
 ### ⛏️ Now working on... Wizzer projects with React.js (www.wizzer.com.br)
 ### ⛏️ And developing a SPA to automate a buying process of a friend's restaurant chain (https://github.com/bbcoelho/purpleorchid)
 
+<!--- ### 📚 Now studying...
 
+#### Swift: https://github.com/bbcoelho/goDev-by-idWall (very very happy and greatfull for this opportunity 😊)
+
+
+
+
+<!--- #### Data validation on Vue.js: https://www.youtube.com/watch?v=XwND-DLWCF0&list=WL&index=26&t=428s --->
 <!--- all go!Dev by idWall bootcamp studies and code projects 😅
 
 - https://github.com/bbcoelho/goDev-by-idWall
