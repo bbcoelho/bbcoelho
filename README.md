@@ -31,9 +31,10 @@
 ### ⛏️ Now working on... Wizzer projects with React.js (www.wizzer.com.br)
 ### ⛏️ And developing a SPA to automate a buying process of a friend's restaurant chain (https://github.com/bbcoelho/purpleorchid)
 
-<!--- ### 📚 Now studying...
+### 📚 Now studying... iOS Swift
 
-#### Swift: https://github.com/bbcoelho/goDev-by-idWall (very very happy and greatfull for this opportunity 😊)
+#### https://github.com/bbcoelho/SwiftStudies
+#### https://github.com/bbcoelho/goDev-by-idWall
 
 
 
