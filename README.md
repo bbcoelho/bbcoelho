@@ -28,8 +28,7 @@
   
 #
 
-### ⛏️ Now working on... Wizzer projects with React.js (www.wizzer.com.br)
-### ⛏️ And developing a SPA to automate a buying process of a friend's restaurant chain (https://github.com/bbcoelho/purpleorchid)
+### ⛏️ Now working... developing a SPA to automate a buying process of a friend's restaurant chain (https://github.com/bbcoelho/purpleorchid)
 
 ### 📚 Now studying... iOS Swift
 
