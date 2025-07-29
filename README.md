@@ -1,10 +1,8 @@
-## Hello, World!! 🤣🤣🙊
-
 - 👋 I’m ... BRUNO COELHO / BRAZILIAN / BELO HORIZONTE - MG
 - 👀 I’m interested in ... DEVELOP MY HABILITIES AS A DEV AND WORK
-- 🌱 I’m currently learning ... cloud computing with Google Cloud
+- 🌱 I’m currently learning ... cloud computing with Google Cloud and Web Development
 - 💞️ I’m looking to collaborate on ... ANY PROJECT I CAN (or, maybe, to push you to outdoors in some sport 👊😉)
-- 📫 How to reach me ... WHATSAPP +5535998262222 / INSTAGRAM @brunaocoelho / LINKEDIN bruno-coelho-9ab0b0139
+- 📫 How to reach me ... WHATSAPP +5535998262222 / EMAIL bbcoelho@gmail.com / LINKEDIN bruno-coelho-9ab0b0139
 #
 
 <p align="center">
