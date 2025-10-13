@@ -19,7 +19,7 @@ I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](h
 
 ---
 
-## Core Skills
+### Core Skills
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -56,7 +56,7 @@ I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](h
 
 ---
 
-## 💻 Projects at Bkper Inc.
+### 💻 Projects at Bkper Inc.
 
 Here are some of the projects I'm actively contributing to at Bkper:
 
@@ -71,7 +71,7 @@ Here are some of the projects I'm actively contributing to at Bkper:
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunocoelho&show_icons=true&theme=transparent&hide_border=true&" alt="Bruno's GitHub Stats"/>
