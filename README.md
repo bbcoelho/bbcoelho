@@ -68,12 +68,12 @@ I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](h
 
 Here are some of the projects I'm actively contributing to at Bkper:
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bkper/bkper-exchange-rates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-exchange-rates&theme=transparent" alt="bkper-exchange-rates"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-exchange-rates&theme=transparent&hide_border=true" alt="bkper-exchange-rates"/>
   </a>
   <a href="https://github.com/bkper/bkper-inventory-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-inventory-bot&theme=transparent" alt="bkper-inventory-bot"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-inventory-bot&theme=transparent&hide_border=true" alt="bkper-inventory-bot"/>
   </a>
 </p>
 
@@ -82,6 +82,6 @@ Here are some of the projects I'm actively contributing to at Bkper:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocoelho&show_icons=true&theme=transparent" alt="Bruno's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelho&layout=compact&theme=transparent" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunocoelho&show_icons=true&theme=transparent&hide_border=true" alt="Bruno's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelho&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
 </p>
