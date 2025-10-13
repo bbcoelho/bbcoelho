@@ -28,4 +28,4 @@
 
 ### ⛏️ Now working... at Bkper Inc. with Google Apps Scripts and Node.js
 
-### 📚 Now studying... Google Cloud Engineering
+### 📚 Now studying... Web Development, Domain-Driven Design and Test-Driven Development
