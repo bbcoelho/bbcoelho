@@ -28,4 +28,4 @@
 
 ### ⛏️ Now working... at Bkper Inc. with Google Apps Scripts and Node.js
 
-### 📚 Now studying... Web Development, Domain-Driven Design and Test-Driven Development
+### 📚 Now studying... Web Development, DDD and TDD
