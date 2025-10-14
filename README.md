@@ -13,8 +13,8 @@
 
 I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](https://github.com/bkper) where I build solutions using Google Apps Scripts and Node.js. I'm passionate about learning new technologies and applying them to solve real-world problems.
 
-- 🌱 I'm currently learning Web Development, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
-- 👯 I'm looking to collaborate on open-source projects.
+- 📚 I'm currently learning Web Development, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
+- 👨‍💻 I'm looking to collaborate on open-source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-coelho-9ab0b0139/) or bbcoelho@gmail.com.
 
 ---
@@ -51,6 +51,21 @@ I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](h
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+</p>
+
+---
+
+## 💻 Personal projects
+
+Some of my actual personal studying projects:
+
+<p align="center">
+  <a href="https://github.com/bbcoelho/web-dev-course">
+    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bbcoelho&repo=web-dev-course&theme=transparent&hide_border=true" alt="web-dev-course"/>
+  </a>
+  <a href="https://github.com/bbcoelho/CleanArchitecture">
+    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bbcoelho&repo=CleanArchitecture&theme=transparent&hide_border=true" alt="CleanArchitecture"/>
   </a>
 </p>
 
