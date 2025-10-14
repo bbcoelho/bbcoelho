@@ -13,13 +13,13 @@
 
 I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](https://github.com/bkper) where I build solutions using Google Apps Scripts and Node.js. I'm passionate about learning new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning Web Development, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
-- 👯 I’m looking to collaborate on open-source projects.
+- 🌱 I'm currently learning Web Development, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
+- 👯 I'm looking to collaborate on open-source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bruno-coelho-9ab0b0139/) or bbcoelho@gmail.com.
 
 ---
 
-### Core Skills
+## Core Skills
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -56,24 +56,24 @@ I'm a developer from Belo Horizonte, Brazil, currently working at [Bkper Inc.](h
 
 ---
 
-### 💻 Projects at Bkper Inc.
+## 💻 Projects at Bkper Inc.
 
 Here are some of the projects I'm actively contributing to at Bkper:
 
 <p align="center">
   <a href="https://github.com/bkper/bkper-exchange-rates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-exchange-rates&theme=transparent&hide_border=true" alt="bkper-exchange-rates"/>
+    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bkper&repo=bkper-exchange-rates&theme=transparent&hide_border=true" alt="bkper-exchange-rates"/>
   </a>
   <a href="https://github.com/bkper/bkper-inventory-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bkper&repo=bkper-inventory-bot&theme=transparent&hide_border=true" alt="bkper-inventory-bot"/>
+    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bkper&repo=bkper-inventory-bot&theme=transparent&hide_border=true" alt="bkper-inventory-bot"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocoelho&show_icons=true&theme=transparent&hide_border=true&" alt="Bruno's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelho&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api?username=bbcoelho&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Bruno's GitHub Stats"/>
+  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/top-langs/?username=bbcoelho&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Langs"/>
 </p>
