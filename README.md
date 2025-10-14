@@ -74,6 +74,6 @@ Here are some of the projects I'm actively contributing to at Bkper:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api?username=bbcoelho&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Bruno's GitHub Stats"/>
-  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/top-langs/?username=bbcoelho&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api?username=bbcoelho&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=1" alt="Bruno's GitHub Stats"/>
+  <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/top-langs/?username=bbcoelho&layout=compact&theme=transparent&hide_border=true&count_private=true&v=1" alt="Top Langs"/>
 </p>
