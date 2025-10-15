@@ -65,7 +65,7 @@ Some of my actual personal studying projects:
     <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bbcoelho&repo=web-dev-course&theme=transparent&hide_border=true" alt="web-dev-course"/>
   </a>
   <a href="https://github.com/bbcoelho/CleanArchitecture">
-    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bbcoelho&repo=CleanArchitecture&theme=transparent&hide_border=true" alt="CleanArchitecture"/>
+    <img src="https://github-readme-stats-3hlwb8hlr-brunos-projects-bd55aa25.vercel.app/api/pin/?username=bbcoelho&repo=cleanarchitecture&theme=transparent&hide_border=true" alt="CleanArchitecture"/>
   </a>
 </p>
 
